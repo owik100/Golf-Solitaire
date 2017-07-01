@@ -1,0 +1,29 @@
+D:\Visual Projects\Projects\Golf\Gold\Gold\bin\Debug\Gold.exe.config
+D:\Visual Projects\Projects\Golf\Gold\Gold\bin\Debug\Gold.exe
+D:\Visual Projects\Projects\Golf\Gold\Gold\bin\Debug\Gold.pdb
+D:\Visual Projects\Projects\Golf\Gold\Gold\obj\Debug\Gold.csprojResolveAssemblyReference.cache
+D:\Visual Projects\Projects\Golf\Gold\Gold\obj\Debug\Gold.Properties.Resources.resources
+D:\Visual Projects\Projects\Golf\Gold\Gold\obj\Debug\Gold.csproj.GenerateResource.Cache
+D:\Visual Projects\Projects\Golf\Gold\Gold\obj\Debug\Gold.exe
+D:\Visual Projects\Projects\Golf\Gold\Gold\obj\Debug\Gold.pdb
+D:\Visual Projects\Projects\Golf\Gold\Gold\obj\Debug\Gold.Form1.resources
+C:\Projects\Visual Studio\C#\Golf\Gold\Gold\bin\Debug\Gold.exe.config
+C:\Projects\Visual Studio\C#\Golf\Gold\Gold\obj\Debug\Gold.exe
+C:\Projects\Visual Studio\C#\Golf\Gold\Gold\obj\Debug\Gold.pdb
+C:\Projects\Visual Studio\C#\Golf\Gold\Gold\bin\Debug\Gold.exe
+C:\Projects\Visual Studio\C#\Golf\Gold\Gold\bin\Debug\Gold.pdb
+C:\Projects\Visual Studio\C#\Golf\Gold\Gold\obj\Debug\Gold.csprojResolveAssemblyReference.cache
+C:\Projects\Visual Studio\C#\Golf\Gold\Gold\obj\Debug\Gold.Form1.resources
+C:\Projects\Visual Studio\C#\Golf\Gold\Gold\obj\Debug\Gold.Properties.Resources.resources
+C:\Projects\Visual Studio\C#\Golf\Gold\Gold\obj\Debug\Gold.csproj.GenerateResource.Cache
+D:\Visual Projects\Projects\Golf\Gold\Gold\obj\Debug\Gold.Help.resources
+D:\Projects\C#\Własne\Golf\Gold\bin\Debug\Gold.exe.config
+D:\Projects\C#\Własne\Golf\Gold\obj\Debug\Gold.exe
+D:\Projects\C#\Własne\Golf\Gold\obj\Debug\Gold.pdb
+D:\Projects\C#\Własne\Golf\Gold\obj\Debug\Gold.Form1.resources
+D:\Projects\C#\Własne\Golf\Gold\obj\Debug\Gold.Help.resources
+D:\Projects\C#\Własne\Golf\Gold\obj\Debug\Gold.csproj.GenerateResource.Cache
+D:\Projects\C#\Własne\Golf\Gold\bin\Debug\Gold.exe
+D:\Projects\C#\Własne\Golf\Gold\bin\Debug\Gold.pdb
+D:\Projects\C#\Własne\Golf\Gold\obj\Debug\Gold.Properties.Resources.resources
+D:\Projects\C#\Własne\Golf\Gold\obj\Debug\Gold.csprojResolveAssemblyReference.cache
